@@ -27,7 +27,7 @@ let files = [
   "cl500calibercontractz",
   "cl60secondsburgerrun",
   "cl60secondssantarun",
-  "clcl64InOneNES",
+  "cl64InOneNES",
   "cl8ballclassic",
   "cl8ballpool",
   "cl9007199254740992",
